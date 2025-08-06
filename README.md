@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Aditya Pratap
 - 👀 I’m interested in FrontEnd Development
-- 🌱 REACT JS Developer
+- 🌱 ReactJS / NextJS Developer
 - 📫 You can reach me @ https://linkedin.com/in/aditya-pratap-81063a107
